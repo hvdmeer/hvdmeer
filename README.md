@@ -1,6 +1,6 @@
 ### Hi there, I'm Hans 👋
 
-- 🔭 I’m currently working on ... 🤔 ... ¯'\_(ツ)_/¯
+- 🔭 I’m currently working on ... 🤔 ... ~~~¯\_(ツ)_/¯~~~
 - 🌱 I’m currently learning nothing about coding, that's for sure!
 - 👯 I’m looking to collaborate on the project Joomla, but I'm doing that for a few years already
 - 🤔 I’m looking for help with, or better said, I could help you with...
